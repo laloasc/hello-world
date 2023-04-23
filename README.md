@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Adding steps on GitHub
 
 Change from GitHub origin/master
+
+Changes on new local branch.
